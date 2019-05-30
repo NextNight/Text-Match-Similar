@@ -20,6 +20,6 @@
 准确率：0.82375
 
 # 相关比赛
-[https://blog.csdn.net/u014732537/article/details/81038260](https://blog.csdn.net/u014732537/article/details/81038260)
-[https://www.kaggle.com/c/quora-question-pairs](https://www.kaggle.com/c/quora-question-pairs/kernels)
+- [https://blog.csdn.net/u014732537/article/details/81038260(https://blog.csdn.net/u014732537/article/details/81038260)
+- [https://www.kaggle.com/c/quora-question-pairs](https://www.kaggle.com/c/quora-question-pairs/kernels)
 
